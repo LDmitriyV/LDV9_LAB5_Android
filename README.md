@@ -1,9 +1,9 @@
 # LDV9_LAB5_Map
 Работа с картами Google
 
-![Screenshot](screenshot1.jpg)
+![Screenshot](screenshot1.png)
 
-![Screenshot](screenshot2.jpg)
+![Screenshot](screenshot2.png)
 
 ![Screenshot](screenshot3.jpg)
 
