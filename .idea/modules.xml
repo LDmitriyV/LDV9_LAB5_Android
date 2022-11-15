@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LDV9_LAB5_Android-master.iml" filepath="$PROJECT_DIR$/.idea/modules/LDV9_LAB5_Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_05_Map/LDV9_LAB5_Android-master.TSN_DEMO_05_Map.unitTest.iml" />
+    </modules>
+  </component>
+</project>
